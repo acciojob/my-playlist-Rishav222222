@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+.main{
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
+.container{
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
